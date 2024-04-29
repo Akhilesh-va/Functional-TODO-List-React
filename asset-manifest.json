@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Functional-TODO-List-React/static/css/main.d3fca0b3.css",
+    "main.js": "/Functional-TODO-List-React/static/js/main.5553b743.js",
+    "index.html": "/Functional-TODO-List-React/index.html",
+    "main.d3fca0b3.css.map": "/Functional-TODO-List-React/static/css/main.d3fca0b3.css.map",
+    "main.5553b743.js.map": "/Functional-TODO-List-React/static/js/main.5553b743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fca0b3.css",
+    "static/js/main.5553b743.js"
+  ]
+}
